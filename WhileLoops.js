@@ -33,3 +33,9 @@ while (start <= 100){
     }
     start++;
 }
+let answer = readline.question(" Enter y or n:");
+while (answer != "y" && answer != "n" && answer !="quit"){
+    console.log("invalid choice.")
+    answer = readline.question(" Enter y or n: ");
+}
+console.log("rest of program");
