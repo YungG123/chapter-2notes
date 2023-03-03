@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4a12bf2-e41d-41f1-bbcc-d2cb5c205e13" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Forloops.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WhileLoops.js" beforeDir="false" afterPath="$PROJECT_DIR$/WhileLoops.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/whileloops1.js" beforeDir="false" afterPath="$PROJECT_DIR$/whileloops1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Forloops.js" beforeDir="false" afterPath="$PROJECT_DIR$/Forloops.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Forloops1.js" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -57,8 +56,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Forloops.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="460">
-              <caret line="35" column="2" selection-start-line="35" selection-start-column="2" selection-end-line="35" selection-end-column="2" />
+            <state relative-caret-position="527">
+              <caret line="37" selection-start-line="37" selection-end-line="37" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -116,14 +115,16 @@
         <option value="$PROJECT_DIR$/input2.js" />
         <option value="$PROJECT_DIR$/WhileLoops.js" />
         <option value="$PROJECT_DIR$/whileloops1.js" />
+        <option value="$PROJECT_DIR$/Forloops1.js" />
         <option value="$PROJECT_DIR$/Forloops.js" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-7" />
-    <option name="width" value="931" />
-    <option name="height" value="1047" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -177,7 +178,7 @@
       <updated>1675459708976</updated>
       <workItem from="1675459710081" duration="4876000" />
       <workItem from="1675805309614" duration="18209000" />
-      <workItem from="1677014849131" duration="5662000" />
+      <workItem from="1677014849131" duration="7180000" />
     </task>
     <task id="LOCAL-00001" summary="Added Input1.js">
       <created>1676412806242</created>
@@ -207,11 +208,18 @@
       <option name="project" value="LOCAL" />
       <updated>1677017691508</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added Input1.js">
+      <created>1677190708287</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1677190708287</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28747000" />
+    <option name="totallyTimeSpent" value="30265000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -223,10 +231,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="931" height="1047" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24300112" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11433087" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -238,7 +246,7 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32822758" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32932165" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3261105" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -305,10 +313,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Forloops1.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Forloops.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="35" column="2" selection-start-line="35" selection-start-column="2" selection-end-line="35" selection-end-column="2" />
+        <state relative-caret-position="527">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
